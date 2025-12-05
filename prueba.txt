@@ -4,3 +4,4 @@ primer pfroma
 
 3
 get log
+4 commit
