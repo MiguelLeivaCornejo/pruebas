@@ -2,4 +2,5 @@ primer pfroma
 1
 2
 
-
+3
+get log
